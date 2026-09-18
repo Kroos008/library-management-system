@@ -41,18 +41,16 @@ The system allows users to add and remove books, search for books, register memb
 
 ## Project Structure
 
-library-management-system/
-├── src/
-│   ├── Main.java
-│   ├── Book.java
-│   ├── Member.java
-│   ├── Library.java
-│   └── FileManager.java
-├── data/
-│   ├── books.txt
-│   └── members.txt
-└── README.md
-
+- `src/`
+  - `Main.java`
+  - `Book.java`
+  - `Member.java`
+  - `Library.java`
+  - `FileManager.java`
+- `data/`
+  - `books.txt`
+  - `members.txt`
+- `README.md`
 ## Requirements
 
 Java Development Kit (JDK) 17 or later.

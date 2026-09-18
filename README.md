@@ -57,3 +57,13 @@ LibraryManagementSystem/
 │
 ├── README.md
 └── .gitignore
+
+## Requirements
+
+- Java JDK 17 or later
+
+Check Java installation:
+
+```bash
+java -version
+javac -version
